@@ -1,0 +1,4 @@
+Image_ID_to_test:               24
+Input_Parameter_file_name:      output/train/CNN_15_100_parameter.txt
+Output_Testing_file_name:       output/test/CNN_15_100_testing.txt
+Input_Test_Images_File_Name:    input/Input_Test_Images.txt

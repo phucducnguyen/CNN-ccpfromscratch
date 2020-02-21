@@ -1,0 +1,16 @@
+Number_Of_Conv_Layers_Per_Pool: 1
+Number_Of_Pooling_Layers: 2
+Number_Of_ANN_Hidden_Layers: 1
+Image_Depth: 1
+Image_Height: 28
+Image_Width: 28
+Number_Of_Filters_Per_Conv_Layer: 2
+Number_Of_ANN_Hidden_Layer_Neurons: 5
+Number_Of_Outputs: 2
+Epoch: 15
+Number_Of_Image_Samples: 100
+LearningRate: 0.05 
+Input_Train_Images_File_Name: input/Input_Train_Images.txt
+Parameter_file_name:    output/train/CNN_15_100_parameter.txt
+Log_file_name:          output/train/CNN_15_100_training_log.txt
+Average_cost_file:      output/train/CNN_15_100_average_cost.txt
